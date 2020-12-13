@@ -1,18 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm AliDjango
+__________________________________________________________________________________________________________________________
 
-<!--
-**AliDjango/Alidjango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
 
-Here are some ideas to get you started:
+-  **Languages :** Python 🐍 | PHP 🕸| HTML 🌐| JS | CSS
+-  **Hobbies :** Music 🎶 & Photoshop 🎨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Alidjango's github stats](https://github-readme-stats.vercel.app/api?username=AliDjango&show_icons=true&theme=tokyonight)
 
-![Alidjango's github stats](https://github-readme-stats.vercel.app/api?username=AliDjango&show_icons=true&theme=radical)
+__________________________________________________________________________________________________________________________
+⬇️ Here my [Repository](https://github.com/pokurt?tab=repositories) list:
